@@ -1,4 +1,4 @@
-# Framwork_IS220.M11.HTCL_2
+# IS207.M12.HTCL
 
 
 <!-- PROJECT LOGO -->
@@ -7,19 +7,19 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
   </a>
 
-  <h3 align="center">Cofffe & Book</h3>
+  <h3 align="center">Revo Shop</h3>
 
   <p align="center">
-    Website quản lý chỗi coffee bán lẻ hàng đầu Việt Nam
+    Quản lý website bán quần áo qua mạng
     <br />
-    <a href="https://github.com/VHNhat/framwork_IS220.M11.HTCL_2"><strong>Khám phá »</strong></a>
+    <a href="https://github.com/IS207-Group12-github-io/IS207-Group12/issues"><strong>Khám phá »</strong></a>
     <br />
     <br />
-    <a href="https://coffee-book-app.vercel.app">Xem Demo</a>
+    <a href="https://github.com/IS207-Group12-github-io/IS207-Group12">Xem Demo</a>
     ·
-    <a href="https://github.com/VHNhat/framwork_IS220.M11.HTCL_2/issues">Báo lỗi</a>
+    <a href="https://github.com/IS207-Group12-github-io/IS207-Group12/issues">Báo lỗi</a>
     ·
-    <a href="https://github.com/VHNhat/framwork_IS220.M11.HTCL_2/issues">Cách yêu cầu</a>
+    <a href="https://github.com/IS207-Group12-github-io/IS207-Group12/issues">Cách yêu cầu</a>
   </p>
 </div>
 
@@ -50,7 +50,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Mục tiêu của đồ án
-Đây là project của môn học Xây dựng hệ thống thông tin trên các Framework - UIT. Nội dung là tạo một trang web quản lý chuỗi bán lẻ cà phê và sách
+Đây là project của môn học Phát triển ứng dụng web - UIT. Nội dung là tạo một trang web quản lý shop bán quần áo qua mạng
 
 Trang web phải đảm bảo được các mục tiêu:
 - Giúp khách hàng mua hàng được nhanh chóng và đúng sản phẩm mình cần.
@@ -60,10 +60,10 @@ Trang web phải đảm bảo được các mục tiêu:
 
 | STT| Họ tên         | Email                  |
 |:--:|----------------|------------------------|
-| 1  | Võ Hoàng Nhật       | 19521960@gm.uit.edu.vn |
-| 2  | Bùi Quốc Huy        | 19521598@gm.uit.edu.vn |
-| 3  | Nguyễn Bá Hoàng     | 19521535@gm.uit.edu.vn |
-| 4  | Nguyễn Văn Nhật Huy | 19521628@gm.uit.edu.vn |
+| 1  | Nguyễn Văn Nhật Huy       | 19521628@gm.uit.edu.vn |
+| 2  | Nguyên Văn Quốc Huy       | 19521629@gm.uit.edu.vn |
+| 3  | Nguyễn Vũ Huy             | 19521630@gm.uit.edu.vn |
+| 4  | Trần Đức Vĩ               | 19522514@gm.uit.edu.vn |
 
 
 
@@ -71,8 +71,8 @@ Trang web phải đảm bảo được các mục tiêu:
 ### Xây dựng bởi
 
 Trang web được xây dựng bởi các thư viện, framwork hiện đại:
-* Frontend: [React.js](https://reactjs.org/) + [Bootstrap](https://getbootstrap.com) + [JQuery](https://jquery.com)
-* Backend: [ASP .NET](https://dotnet.microsoft.com)
+* Frontend: [Bootstrap](https://getbootstrap.com) + [JQuery](https://jquery.com)
+* Backend: [Laravel](https://laravel.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -87,13 +87,12 @@ Trang web được xây dựng bởi các thư viện, framwork hiện đại:
 - Áp dụng các mã khuyến mãi
 
 # Yêu cầu hệ thông:
-- NodeJS 17.0.1
-- ASP.NET: .Net 5.0
+- Laravel 5.8+
 ## Liên hệ
 
-Võ Hoàng Nhật - Bùi Quốc Huy
+Nguyễn Văn Nhật Huy
 
-Project Link: [https://github.com/VHNhat/framwork_IS220.M11.HTCL_2)
+Project Link: [https://github.com/IS207-Group12-github-io/IS207-Group12)
 
 
 
@@ -103,5 +102,4 @@ Project Link: [https://github.com/VHNhat/framwork_IS220.M11.HTCL_2)
 
 # Tài liệu tham khảo 
 - https://www.w3schools.com/
-- https://www.reactjs.org/
-- https://dotnet.microsoft.com/learn/aspnet/hello-world-tutorial/intro
+- https://www.laravel.com/
